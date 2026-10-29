@@ -1,0 +1,253 @@
+{
+  "herbs": 328,
+  "dropped_headings": 144,
+  "dropped_by_region": {
+    "front": 28,
+    "back": 116
+  },
+  "with_virtues": 314,
+  "with_planet": 303,
+  "planets": {
+    "Sun": 27,
+    "Moon": 35,
+    "Mars": 46,
+    "Mercury": 33,
+    "Jupiter": 34,
+    "Venus": 75,
+    "Saturn": 53
+  },
+  "chars": {
+    "min": 243,
+    "median": 1946,
+    "max": 16788
+  },
+  "shortest": [
+    [
+      "Elder Tree",
+      243
+    ],
+    [
+      "Pearl Trefoil",
+      262
+    ],
+    [
+      "Maple Tree",
+      312
+    ],
+    [
+      "Primroses",
+      387
+    ],
+    [
+      "Oats",
+      488
+    ],
+    [
+      "Maiden Hair",
+      495
+    ],
+    [
+      "Garden-Patience",
+      526
+    ],
+    [
+      "Sweet Maudlin",
+      579
+    ],
+    [
+      "Earth Chesnuts",
+      641
+    ],
+    [
+      "Lavender-Cotton",
+      646
+    ]
+  ],
+  "longest": [
+    [
+      "Garden-Rue",
+      4293
+    ],
+    [
+      "Angelica",
+      4401
+    ],
+    [
+      "Great Round-Leaved Dock",
+      4608
+    ],
+    [
+      "Wood Betony",
+      4747
+    ],
+    [
+      "Cuckow-Point",
+      5070
+    ],
+    [
+      "Celandine",
+      5098
+    ],
+    [
+      "Poppy",
+      5846
+    ],
+    [
+      "Mallows And Marshmallows",
+      6842
+    ],
+    [
+      "Roses",
+      9756
+    ],
+    [
+      "Wormwood",
+      16788
+    ]
+  ],
+  "suspicious_names": [],
+  "without_virtues": [
+    "Asparagus",
+    "Bifoil",
+    "Camomile",
+    "Chesnut Tree",
+    "Elder Tree",
+    "Maiden Hair",
+    "Golden Maiden Hair",
+    "French And Dog Mercury",
+    "Primroses",
+    "Rhubarb",
+    "Garden-Patience",
+    "Treacle Mustard",
+    "Pearl Trefoil",
+    "Vine"
+  ],
+  "kept_without_labels": [
+    "Camomile",
+    "Chesnut Tree",
+    "Elder Tree",
+    "Primroses",
+    "Pearl Trefoil",
+    "Vine"
+  ],
+  "no_planet": [
+    "Asparagus",
+    "Camomile",
+    "Chervil",
+    "Elder Tree",
+    "Loosestrife",
+    "Maiden Hair",
+    "Golden Maiden Hair",
+    "Sweet Maudlin",
+    "Mellilot",
+    "French And Dog Mercury",
+    "Nailwort",
+    "Oats",
+    "Parsley Piert",
+    "St. Peter’s Wort",
+    "Primroses",
+    "Winter-Rocket",
+    "Rhubarb",
+    "Garden-Patience",
+    "Meadow-Rue",
+    "Rushes",
+    "Rye",
+    "Common White Saxifrage",
+    "Treacle Mustard",
+    "Black Thorn",
+    "Wold"
+  ],
+  "dropped_main": [],
+  "dropped_other_sample": [
+    {
+      "heading": "WITH A DISPLAY OF THEIR",
+      "body_chars": 30,
+      "region": "front",
+      "preview": "Medicinal and Occult Qualities"
+    },
+    {
+      "heading": "FAMILY DISPENSATORY AND NATURAL SYSTEM OF PHYSIC.",
+      "body_chars": 52,
+      "region": "front",
+      "preview": "———————————— BY NICHOLAS CULPEPER, M.D. ————————————"
+    },
+    {
+      "heading": "AND A GENERAL INDEX.",
+      "body_chars": 221,
+      "region": "front",
+      "preview": "Illustrated by Engravings of numerous British Herbs and Plants, correctly coloured from nature. ————"
+    },
+    {
+      "heading": "LONDON: THOMAS KELLY, 17, PATERNOSTER ROW.",
+      "body_chars": 11,
+      "region": "front",
+      "preview": "——— MDCCCL."
+    },
+    {
+      "heading": "PLATE 1.",
+      "body_chars": 120,
+      "region": "front",
+      "preview": "Alexander Agrimony Alkanet Allheal Amara Dulcis or Bitter Sweet Amaranthus Adder's Tongue Angelica A"
+    },
+    {
+      "heading": "PLATE 2.",
+      "body_chars": 95,
+      "region": "front",
+      "preview": "Garden Arrach Avens Ars smart Basil Archangel Beets Yellow Bedstraw White Bedstraw Water Betony"
+    },
+    {
+      "heading": "PLATE 3.",
+      "body_chars": 121,
+      "region": "front",
+      "preview": "Bird’s Foot Bishop’s Weed Bistort or Snakeweed White Briony Borage Brooklime Bucks-horn Plantain Bra"
+    },
+    {
+      "heading": "PLATE 4.",
+      "body_chars": 86,
+      "region": "front",
+      "preview": "Burdock Butter-bur Wall Bugloss Bugle Camomile Carraway Centaury Wild Carrot Celandine"
+    },
+    {
+      "heading": "PLATE 5.",
+      "body_chars": 113,
+      "region": "front",
+      "preview": "Chervill Comfry Cleavers Coltsfoot Crabs Claws or Fresh water Soldier Cowslip Columbine Shrub Cinque"
+    },
+    {
+      "heading": "PLATE 6.",
+      "body_chars": 83,
+      "region": "front",
+      "preview": "Crowfoot Cuckow Point Water Cress Cudweed Crosswort Dill Dandelion Daisy Devils Bit"
+    },
+    {
+      "heading": "PLATE 7.",
+      "body_chars": 85,
+      "region": "front",
+      "preview": "Eringo Eyebright Elecampane Dock Dragons Dog’s Grass Dropwort Dove’s Foot Bloody Dock"
+    },
+    {
+      "heading": "PLATE 8.",
+      "body_chars": 83,
+      "region": "front",
+      "preview": "Foxglove Flower-de-luce Figwort Fleawort Fumitory Fluellin Fennel Flaxweed Feverfew"
+    },
+    {
+      "heading": "PLATE 9.",
+      "body_chars": 121,
+      "region": "front",
+      "preview": "Wall Hawkweed. Hart’s Tongue. Mouse-ear Hawkweed. Gentian. Golden Rod. Galingal. Clove Gilliflower. "
+    },
+    {
+      "heading": "PLATE 10.",
+      "body_chars": 114,
+      "region": "front",
+      "preview": "Longrooted Hawkweed Hearts Ease Hounds Tongue Herb Robert Marsh Pennywort White Horehound Henbane Tr"
+    },
+    {
+      "heading": "PLATE 11.",
+      "body_chars": 122,
+      "region": "front",
+      "preview": "Knapweed Lady’s Mantle Ladysmock Sea Lavender Water Lily Liquorice Loosestrife or Willowherb Liver W"
+    }
+  ]
+}

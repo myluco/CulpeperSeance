@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "culpeper-agent"
+version = "0.1.0"
+description = "LangGraph agent that channels Nicholas Culpeper, grounded in the retrieved herbal."
+requires-python = ">=3.11"
+# Depends on the sibling `culpeper-rag` package. `make setup` installs rag, agent
+# and server together in one editable install, so it is not listed here.
+dependencies = [
+    "langgraph>=0.2",
+    "langchain-core>=0.3",
+    "langchain-ollama>=0.3",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/agent"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

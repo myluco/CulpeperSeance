@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.env
+
+node_modules/
+ui/dist/
+
+# Generated artifacts (rebuild with `make ingest`)
+data/chroma/
+data/raw/
